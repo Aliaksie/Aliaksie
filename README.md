@@ -2,7 +2,7 @@
 
 Tech lead · Software enthusiast
 
-A small collection of projects, contributions, and experiments.
+I enjoy building software, figuring out how systems fit together, and finding ways to make everyday engineering easier.
 
 
 ## Something I've been building
